@@ -1,0 +1,4 @@
+KEY CONCEPTS
+1.Identify your understanding of basic statistics
+2.Recognize different distributions such as binomial, uniform, normal, and chi-squared
+3.Interpret data to evaluate hypothesis tests
