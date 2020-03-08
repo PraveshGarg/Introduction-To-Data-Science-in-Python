@@ -1,0 +1,6 @@
+KEY CONCEPTS
+1.Create Series and DataFrame Data Structures
+2.Use pandas math functions, as well as broadcasting features
+3.Employ the pandas library to import and manipulate data
+4.Apply indexing and querying to DataFrames, and deal with missing values
+
